@@ -11,8 +11,8 @@
     <!--sys:String x:Key="ExtraMetadataPath">C:\Users\david\AppData\Roaming\Playnite</sys:String-->
 	
 	<!--Single Row Mode-->
-    <sys:Boolean x:Key="SingleRowMode">true</sys:Boolean>
-    
+    <sys:Boolean x:Key="SingleRowMode">False</sys:Boolean>
+
     <!--Left Icon-->
     <sys:Boolean x:Key="LeftIconTrueFalse">true</sys:Boolean>
     
@@ -23,7 +23,7 @@
     <sys:Boolean x:Key="PlaystationStoreTrueFalse">true</sys:Boolean>
 
     <!--StoreButton-->
-    <sys:Boolean x:Key="StoreButtonTrueFalse">false</sys:Boolean>
+    <sys:Boolean x:Key="StoreButtonTrueFalse">False</sys:Boolean>
 
     <!--DisableGameBackgroundOnGrid-->
     <sys:Boolean x:Key="DisableGameBackgroundOnGridTrueFalse">true</sys:Boolean>
